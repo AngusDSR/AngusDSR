@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello! My name's Angus
 
-<!--
-**AngusDSR/AngusDSR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Curently I'm based in London, UK 
 
-Here are some ideas to get you started:
+🤓 After some self teaching I decided to put my efforts towards a career change and am currently studying at Le Wagon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Right now I'm learning Ruby on Rails, and enjoying it 
+
+📨 Reach out by email: mailto:adspawtonrice@gmail.com
+
+### 🔩 My work :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngusDSR&theme=tokyonight)](https://github.com/AngusDSR/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngusDSR)](https://github.com/anuraghazra/github-readme-stats)

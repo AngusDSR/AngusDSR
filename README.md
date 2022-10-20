@@ -2,7 +2,7 @@
 
 🌍 Curently I'm based in London, UK 
 
-🤓 After some self teaching I decided to put my efforts towards a career change and am currently studying at Le Wagon
+🤓 After some self teaching I decided to push myself to learn more and am currently studying at Le Wagon
 
 ⚡ Right now I'm learning Ruby on Rails, and enjoying it a lot
 

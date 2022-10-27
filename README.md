@@ -6,7 +6,7 @@
 
 ⚡ Right now I'm learning Ruby on Rails, and enjoying it a lot
 
-📨 Reach out by email: mailto:adspawtonrice@gmail.com
+📨 Reach out by email:adspawtonrice@gmail.com
 
 ### 🔩 My work :
 

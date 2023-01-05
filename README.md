@@ -4,7 +4,7 @@
 
 🤓 After some self teaching I decided to push myself to learn more and make a career change so have recently finished a fullstack web development bootcamp at [Le Wagon](https://github.com/lewagon) to do this
 
-👋 I'm looking for my first opporunity as a web developer, [here's my LinkedIn for more](https://www.linkedin.com/in/angus-spawton-rice-7866762b/)
+👋 I'm looking for my first opporunity as a web developer, [here's my LinkedIn for more info](https://www.linkedin.com/in/angus-spawton-rice-7866762b/)
 
 ⚡ Right now I'm learning more about Ruby on Rails and AWS
 

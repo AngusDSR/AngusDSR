@@ -2,9 +2,11 @@
 
 🌍 Curently I'm based in London, UK 
 
-🤓 After some self teaching I decided to push myself to learn more and am currently studying at Le Wagon
+🤓 After some self teaching I decided to push myself to have recently finished a fullstack web development bootcamp at [Le Wagon](https://github.com/lewagon)
 
-⚡ Right now I'm learning Ruby on Rails, and enjoying it a lot
+👋 I'm looking for my first opporunity as a web developer, [here's my LinkedIn for more](https://www.linkedin.com/in/angus-spawton-rice-7866762b/)
+
+⚡ Right now I'm learning more about Ruby on Rails and AWS
 
 📨 Reach out by email: adspawtonrice@gmail.com
 

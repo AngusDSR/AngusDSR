@@ -10,5 +10,4 @@
 
 📨 Reach out by email: adspawtonrice@gmail.com
 
-### 🧩 My stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngusDSR&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

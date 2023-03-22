@@ -6,7 +6,7 @@
 
 👋 I'm looking for my first opporunity as a web developer, [here's my LinkedIn for more info](https://www.linkedin.com/in/angus-spawton-rice-7866762b/)
 
-⚡ Right now I'm learning more about Ruby on Rails and AWS
+⚡ Right now I'm learning more about Ruby on Rails and Python
 
 📨 Reach out by email: adspawtonrice@gmail.com
 

@@ -5,4 +5,5 @@
 ⚡ Right now I'm learning more about Ruby on Rails and Python
 
 📨 Reach out by email: adspawtonrice@gmail.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngusDSR&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
